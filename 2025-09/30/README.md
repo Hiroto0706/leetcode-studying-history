@@ -1,3 +1,6 @@
+関連リンク：
+https://leetcode.com/problems/length-of-last-word/submissions/1786790180
+
 > Example 1:
 >
 > Input: s = "Hello World"
